@@ -1,0 +1,147 @@
+
+
+/* (xs)Extra Small Window */	
+
+@media (max-width: 767px)	{
+	.xs-obj-center {
+	text-align: center;
+}	
+
+							}
+
+
+/* (sm) Small Screen*/
+@media (min-width:768px) and (max-width: 991px) {
+	.sm-obj-center {
+	text-align: center;
+} 
+		.sm-obj-left {
+	text-align: left;
+	margin-bottom: 5px;
+} 
+		.sm-obj-right {
+	text-align: right;
+	margin-bottom: 5px;
+} 
+												}
+
+/* (md) Medium Screen*/
+@media (min-width:992px) and (max-width: 1199px) {
+
+	.md-obj-center {
+	text-align: center;
+} 
+	.md-obj-left {
+	text-align: left;
+	margin-bottom: 5px;
+	margin-bottom: 5px;
+} 
+	.md-obj-right {
+	text-align: right;
+	margin-bottom: 5px;
+} 
+												}
+
+/* (lg) Large  Screen*/
+@media (min-width: 1200px) {
+
+	.lg-obj-center 	{
+		text-align: center;
+	} 
+	.lg-obj-left {
+		text-align: left;
+		margin-bottom: 5px;
+	} 
+	.lg-obj-right {
+		text-align: right;
+	} 
+}
+
+
+
+
+
+
+/*Centered*/
+.centered{
+	text-align:center;
+	max-height: 350px;
+	max-width: 1100px;
+	padding: 0.5em;
+	background-color:;
+
+
+}
+
+/*Project Text Center*/
+
+.projectextcent{
+	text-align:center;
+	padding: 0.5em;
+}
+
+/*Projects*/
+.projectsdown{
+	display: absolute;
+	margin-top: 365px;
+	margin-left: px;
+	padding: 0.5em;
+}
+
+
+.imageheight{
+	height: 20px;
+}
+
+.headcontainer {
+position:relative;
+margin-top: -240px;
+z-index: 1;
+
+} 
+
+.obj-right {
+float: right;
+
+} 
+
+.obj-left {
+float: left;
+
+} 
+
+
+/*Moves the header and all other dependent contents upward*/
+
+.moveup {
+	margin-top: -430px;
+}	
+
+body {
+	background-image: url('../img/kenteymain.jpg');
+	background-repeat: repeat-y ;
+	background-position: center center;
+	background-size: 100% 100% img-responsive;
+
+}			
+
+
+
+/* Center align the text within the three columns below the carousel */
+.textdimension{
+   position: relative;
+   margin-right: 250px;
+   margin-left: 600px;
+   margin-top: 320px;
+   font-weight: 300;
+   color: white;
+   line-height: 1;
+   letter-spacing: -1px;
+   opacity: 5;
+   width: 300px;
+}
+
+
+
+
+

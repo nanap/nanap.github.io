@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>
+			Educational & Work Experience
+		</title>
+	</head>
+
+	<body>
+		<center>
+
+			<h2> 
+				<strong> Nana Opoku W. O. Agyeman-Prempeh </strong>
+			</h2>
+
+			<p> 
+				<strong> 
+					An Entrepreneur In Training <mark> (EIT) </mark> @ 
+					<a href="http://www.meltwater.org/">MEST</a> 
+				</strong>
+			</p>
+
+			<p>
+				<a href="http://www.meltwater.org/" target="_blank">
+					<img src="http://direct.hatchcdn.com/uploads/logo_meltwater.jpg" width="170" height="160">
+					<img src="http://direct.hatchcdn.com/uploads/logo_mest.jpg" width="170" height="160">
+				</a>
+				<iframe width="160" height="160" src="mest.mp4" frameborder="0"></iframe>
+			</p>
+			<hr>
+			<p>
+				Hi! Welcome to my first webpage. Mastering software development is like having a paint brush in your hand and painting a brand new picture of your world.
+			</p>
+			<hr>
+			<p>Communication, the lifeline of your company (Article 1)</p>
+			
+			<iframe width="800" height="1000" src="https://docs.google.com/document/d/1b3FJB_Tw8BVKiLb-vowmNPJU_Sjdk7jKuZHZfvOCdk8/edit?usp=sharing" frameborder="0" ></iframe> 	
+		</center>
+
+		<p>	
+			Nana Agyeman-Prempeh<br>
+			Entrepreneur In Training (EIT)<br>
+			Meltwater Software and Entrepreneurial School.
+		</p>		
+	</body>
+</html>

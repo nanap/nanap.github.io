@@ -1,7 +1,12 @@
-/* div {
-	border: 1px solid red;
+
+.part2{
+	background-color:black;
+	opacity: 0.9;
+	color: white;
+	border-radius: 6px 6px 6px 6px;
 }
- */
+
+
 .centered {
 	margin-right: auto;
 	margin-left: auto;
