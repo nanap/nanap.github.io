@@ -1,0 +1,128 @@
+
+/* Xtra Small */
+@media (max-width: 767px) {
+		.flex1{
+	
+		background-image: url('../img/mework.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex2{
+	
+		background-image: url('../img/meandher.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex3{
+		background-image: url('../img/us.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex4{
+		background-image: url('../img/myGod.jpg') ;
+		width=150px;
+		height=90px;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+}
+
+/* Small */
+@media (min-width: 768px) and (max-width: 991px) {
+		.flex1{
+	
+		background-image: url('../img/mework.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex2{
+	
+		background-image: url('../img/meandher.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex3{
+		background-image: url('../img/us.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex4{
+		background-image: url('../img/myGod.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width=150px;
+		height=90px;
+	}
+	
+}
+
+/* Medium */
+@media (min-width: 992px) and (max-width: 1199px) {
+		.flex1{
+	
+		background-image: url('../img/mework.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex2{
+	
+		background-image: url('../img/meandher.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex3{
+		background-image: url('../img/us.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex4{
+		background-image: url('../img/myGod.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width=150px;
+		height=90px;
+	}
+	
+}
+
+
+
+/* Large */
+@media (min-width: 1200px) {
+			.flex1{
+	
+		background-image: url('../img/mework.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex2{
+	
+		background-image: url('../img/meandher.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+			.flex3{
+		background-image: url('../img/us.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+
+	}
+			.flex4{
+		background-image: url('../img/myGod.jpg') ;
+		background-repeat: no-repeat;
+		background-position: center center;
+		
+	}
+	
+}
